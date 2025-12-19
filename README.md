@@ -1,14 +1,12 @@
-# 英国实体 SIM 卡 giffgaff 激活使用教程
+# 英国giffgaff实体SIM卡
 原文链接：https://github.com/ssnhd/giffgaff?tab=readme-ov-file#%E6%BF%80%E6%B4%BB。本人转载、删除了部分图片。
 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负
-
-购买：
 
 
 
 ## 激活
 
-- 激活需充 10 英镑话费。用有 VISA 或 MasterCard 标志的信用卡进行充值，如没有，联系[客服](https://github.com/ssnhd/sim)代激活。
+- 激活需充 10 英镑话费。用有 VISA 或 MasterCard 标志的信用卡进行充值。
 - 激活后官方随机分配号码，如对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
 - 英国区号 +44
 
