@@ -1,4 +1,3 @@
-# giffgaff by #gift-10086
 # 英国实体 SIM 卡 giffgaff 激活使用教程
 原文链接：https://github.com/ssnhd/giffgaff?tab=readme-ov-file#%E6%BF%80%E6%B4%BB。本人转载、删除了部分图片。
 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负
